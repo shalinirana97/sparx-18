@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "country": "Portugal",
+            "state": [
+                {
+                    "name": "Aasiya Jayavant",
+                    "checked": false
+                },
+                {
+                    "name": "Luvleen Lawrence",
+                    "checked": false
+                },
+                {
+                    "name": "Rey Mibourne",
+                    "checked": false
+                },
+                {
+                    "name": "Cayla Brister",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "country": "Nicaragua",
+            "state": [
+                {
+                    "name": "Deveedaas Nandi",
+                    "checked": false
+                },
+                {
+                    "name": "Obasey Chidy",
+                    "checked": false
+                },
+                {
+                    "name": "Xenie Dolezelova",
+                    "checked": false
+                },
+                {
+                    "name": "Ezequiel Dengra",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "country": "Marshall Islands",
+            "state": [
+                {
+                    "name": "Aaron Almaraz",
+                    "checked": false
+                },
+                {
+                    "name": "Jelena Denisova",
+                    "checked": false
+                },
+                {
+                    "name": "Xenie Dolezelova",
+                    "checked": false
+                },
+                {
+                    "name": "Ezequiel Dengra",
+                    "checked": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+.layout {
+    min-height: 100vh;
+    background-color: blueViolet;
+    overflow-x: hidden;
+}
+
+.headWrap {
+    color: black !important;
+    background-color: white !important;
+    text-transform: uppercase;
+    .MuiToolbar-dense {
+        min-height: 85px;
+    }
+    .paddingContainer {
+        margin: 0 91px;
+        align-items: center;
+    }
+    .MuiMenuItem-root {
+        text-transform: capitalize;
+        font-weight: 600;
+    }
+    .btn {
+        border: 1px solid #d2d2d2;
+        text-transform: capitalize;
+        padding: 10px 30px;
+        font-weight: 600;
+    }
+    .ml {
+        margin-left: 8px;
+    }
+}
+
+.contentWrapper {
+    .MuiCard-root {
+        min-height: 500px;
+        height: 500px;
+        overflow: hidden;
+    }
+    .MuiCardContent-root {
+        height: 460px;
+        overflow-y: auto;
+        .emptyTextWrap {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            h6 {
+                color: #d2d2d2;
+            }
+        }
+    }
+    .MuiCheckbox-colorPrimary.Mui-checked {
+        color: #a760e9;
+    }
+    .listItemWrap {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #f2f2f2;
+        padding: 10px;
+        margin-bottom: 12px;
+        p {
+            margin: 0;
+        }
+        .MuiSvgIcon-root {
+            cursor: pointer;
+        }
+    }
+}
